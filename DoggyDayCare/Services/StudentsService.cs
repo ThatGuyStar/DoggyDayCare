@@ -35,7 +35,7 @@
         {
             //Firstordefaultasync
             //returns first student it finds with that id or null
-            //letter is the student object
+            //letter is the student object.
             var student = await studentsRepository.Students.FirstOrDefaultAsync(s => s.StudentId == studentId);
 
             if (student is null)
