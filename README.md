@@ -1,4 +1,4 @@
 # DoggyDayCare
 
-Gage Cahoon
-Application to manage dog transaction at a dog day care.
+Gage Cahoon -
+Application to manage dog transactions at a dog day care.
